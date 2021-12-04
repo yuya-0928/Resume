@@ -11,6 +11,9 @@
 |blog|[ゆにの技術ブログ](https://yuniyuni.work/)|
 |Twitter|[@YYa0928](https://twitter.com/YYa0928)|
 |Twitter2|[@hirattchi0928](https://twitter.com/hirattchi0928)|
+|FaceBook|[FaceBookプロフィール](https://www.facebook.com/hirako.yuya)|
+|Github|[yuya-0928](https://github.com/yuya-0928)|
+|AtCoder|[Shinogami_Yuni](https://atcoder.jp/users/Shinogami_Yuni)|
 
 
 ## :muscle: スキル概要
@@ -33,23 +36,25 @@
 
 
 ## :memo: スキル詳細
-### 日常的に使用している言語
+### 利用している言語
 - Ruby (2.7.2)
   - 業務でRuby on Rails(6.1.4.1)を使ったWebアプリケーションの開発をしています。
+  - 2019/07から2年ほど使っています。
 - Python(3.8.5)
   - 業務でDiscord Botを開発する際に使用しています。
+  - 最近はAPIを叩く時やDiscord Bot開発をする際にしか使っていませんが、株式会社Dipの選考に応募する際、Sinatraを使ったWebアプリケーションを実装した経験もあります。
 - Google App Script
   - 業務でマーケット調査をする際、データ収集の自動化やデータ整理のために使用しています。
 - C++(9.3.0)
   - 競技プログラミングをする際に使用しています。
-
-### 現在学習中の言語
 - C# (Unity)
   - 趣味でUnityを使ったVRアプリケーションの開発を練習しています。
   - [UnityちゃんになれるVRアプリ](https://docs.google.com/presentation/d/1IzEoQ-IApBNrVWh8q3rroL8MG6pSkr82VZFvT6uZfjA/edit?usp=sharing)
 - Golang
+  - 現在学習中。Goを使ったWebアプリケーション開発に興味があり、echoフレームワークのハンズオンを実施しまいた。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、DiscordGoでBotを作り直すことを検討中
 - Rust
+  - DiscordがGoの実装をRustに切り替えていたり、Rubyを利用していることでおなじみのクックパッドが社内でRustを使い始めている聞いたことをきっかけに興味を持ち、公式ドキュメントのハンズオンを実施しました。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、Serenity(Rust)でBotを作り直すことを検討中
 
 ### その他使用経験のあるツール
@@ -108,10 +113,10 @@ Ruby on RailsとJavaScriptを使用して、動画のLive配信中にDiscordの�
   
   
 ## Clusterゲームワールドのギミック作成(Unity & Cluster Creator Kit) 
-**Cluster GAMEJUM 2021 in SUMMERにてUnityJapan賞を受賞しました**
+**Cluster GAMEJUM 2021 in SUMMERにてUnityJapan賞を受賞しました**  
 [Cluster GAMEJUM 2021 in SUMMER　大賞受賞作品一覧ページ](https://www.contest.cluster.mu/gamejam2021summer-award)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ゆにが参加したチームがUnity Japan賞を受賞しましたー！<br>初めてのClusterゲームジャムだったのですが、チームで大きな賞をいただけたのがすごく嬉しい！！！ <a href="https://t.co/lTIziYFCp4">https://t.co/lTIziYFCp4</a></p>&mdash; 慕狼ゆに@(毎週金曜)VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1429429147386802181?ref_src=twsrc%5Etfw">August 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ゆにが参加したチームがUnity Japan賞を受賞しましたー！<br>初めてのClusterゲームジャムだったのですが、チームで大きな賞をいただけたのがすごく嬉しい！！！ <a href="https://t.co/lTIziYFCp4">https://t.co/lTIziYFCp4</a></p>&mdash; 慕狼ゆに@(毎週金曜)VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1429429147386802181?ref_src=twsrc%5Etfw">August 22, 2021</a></blockquote>
 
 ![スクリーンショット 2021-12-04 224002](https://user-images.githubusercontent.com/34731535/144711648-0140fef5-d69c-4958-904f-2c7f7a297af4.png)
 
@@ -134,6 +139,8 @@ Cluster GAMEJUMにチームで参加し、ゲームギミックの実装をし�
 
 ## :mag: 自己PR
 
-強み：技術への好奇心
-パーソナリティ：
-特徴：
+**強み：自走力 好奇心**  
+
+**パーソナリティ：チャレンジング**  
+
+**特徴：とりあえず始めて見る**    
