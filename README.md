@@ -1,5 +1,17 @@
 # 職務経歴書
 
+## 個人情報
+|key|value|
+|---|-----|
+|name|平子雄也|
+|address|東京都豊島区巣鴨3-34-3 フラワーコーポ404|
+|phone|090-6197-8713|
+|email|y.hirako0928@gmail.com|
+|blog|[ゆにの技術ブログ](https://yuniyuni.work/)|
+|Twitter|[@YYa0928](https://twitter.com/YYa0928)|
+|Twitter2|[@hirattchi0928](https://twitter.com/hirattchi0928)|
+
+
 ## 自己紹介
 平子雄也です。東京生まれ東京育ちの23歳です。
 
@@ -54,6 +66,8 @@
 - Discord BOTのインフラ環境構築(Heroku)
 - アプリケーションの要件定義、設計、運用、保守
 
+
+
 ### 株式会社Dip 2020/10~2021/09
 職務：データサイエンス・分析(インターン)  
   
@@ -76,10 +90,31 @@ DMM WEBCAMPのチューターとして、Rubyを用いたWebアプリケーシ�
 - MySQLを使ったデータ分析
 - Python、LightGBMを使った自然言語処理プログラムの作成
 
-### 個人開発・チーム開発の成果物
-リングフィット集会コメントビューア  
+## (業務外)個人開発・チーム開発の成果物  
+
+## リングフィット集会コメントビューア(Ruby on Rails & JavaScript)  
   
 ![スクリーンショット 2021-12-04 213627](https://user-images.githubusercontent.com/34731535/144709712-7c8e05e0-ec03-40f9-a914-4394fe931917.png)
   
 Ruby on RailsとJavaScriptを使用して、動画のLive配信中にDiscordの特定チャンネルから取得したコメントを表示するコメントビューアを作成しました。
-コメントを取得するためのAPIとDiscord Botは既に依頼者の方が作成してくださっていましたので、コメントを表示するためのクライアントアプリの作成をしました。
+コメントを取得するためのAPIとDiscord Botは既に依頼者の方が作成してくださっていましたので、コメントを表示するためのクライアントアプリの作成をしました。  
+  
+  
+## Clusterゲームワールドのギミック作成(Unity & Cluster Creator Kit) 
+**Cluster GAMEJUM 2021 in SUMMERにてUnityJapan賞を受賞しました**
+[Cluster GAMEJUM 2021 in SUMMER　大賞受賞作品一覧ページ](https://www.contest.cluster.mu/gamejam2021summer-award)
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ゆにが参加したチームがUnity Japan賞を受賞しましたー！<br>初めてのClusterゲームジャムだったのですが、チームで大きな賞をいただけたのがすごく嬉しい！！！ <a href="https://t.co/lTIziYFCp4">https://t.co/lTIziYFCp4</a></p>&mdash; 慕狼ゆに@(毎週金曜)VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1429429147386802181?ref_src=twsrc%5Etfw">August 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![スクリーンショット 2021-12-04 224002](https://user-images.githubusercontent.com/34731535/144711648-0140fef5-d69c-4958-904f-2c7f7a297af4.png)
+
+[clusterワールド起動リンクはこちら](https://cluster.mu/w/91fa9a73-fece-49d2-9f81-91335626fb5b)
+
+Cluster GAMEJUMにチームで参加し、ゲームギミックの実装をしました。左上のパワーゲージに関する機能の実装をおこないました。  
+作成したゲームワールドを高く評価していただき、UnityJapan賞をいただくことができました。  
+
+
+## イベント開催用のワールド作成(Unity & VRChatSDK) 
+
+![スクリーンショット 2021-11-18 141153](https://user-images.githubusercontent.com/34731535/144712129-ee03b919-b956-4a38-b729-cc70df08e525.png)
+
