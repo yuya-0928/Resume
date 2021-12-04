@@ -19,14 +19,23 @@
   - 業務でDiscord Botを開発する際に使用しています。
 - Google App Script
   - 業務でマーケット調査をする際、データ収集の自動化やデータ整理のために使用しています。
-- C++
+- C++(9.3.0)
   - 競技プログラミングをする際に使用しています。
+- 
 
 ## 現在学習中の言語
-- C#
+- C# (Unity)
   - 趣味でUnityを使ったVRアプリケーションの開発を練習しています。
   - [UnityちゃんになれるVRアプリ](https://docs.google.com/presentation/d/1IzEoQ-IApBNrVWh8q3rroL8MG6pSkr82VZFvT6uZfjA/edit?usp=sharing)
+- Golang
+  - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、DiscordGoでBotを作り直すことを検討中
+- Rust
+  - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、Serenity(Rust)でBotを作り直すことを検討中
 
+## その他使用経験のあるツール
+- Git
+- Google Analytics
+- Jupyter Notebook
 
 # 職務経歴
 ## 株式会社FANP 2020/05~  
@@ -38,6 +47,7 @@
 - Discord.pyを使ったDiscord Botの開発(サービス運用に使用)
 - Google App Scriptを使った業務効率化の実現
   - YoutubeDataAPI、TwitchAPIを利用した市場調査
+- AWS EC2インスタンス上にデータ分析環境の構築(Redash)
 - Webアプリケーションのインフラ設計構築(AWS)
 - Discord BOTのインフラ環境構築(Heroku)
 - アプリケーションの要件定義、設計、運用、保守
@@ -64,3 +74,10 @@ DMM WEBCAMPのチューターとして、Rubyを用いたWebアプリケーシ�
 - MySQLを使ったデータ分析
 - Python、LightGBMを使った自然言語処理プログラムの作成
 
+## 個人開発・チーム開発の成果物
+リングフィット集会コメントビューア  
+  
+![スクリーンショット 2021-12-04 213627](https://user-images.githubusercontent.com/34731535/144709712-7c8e05e0-ec03-40f9-a914-4394fe931917.png)
+  
+Ruby on RailsとJavaScriptを使用して、動画のLive配信中にDiscordの特定チャンネルから取得したコメントを表示するコメントビューアを作成しました。
+コメントを取得するためのAPIとDiscord Botは既に依頼者の方が作成してくださっていましたので、コメントを表示するためのクライアントアプリの作成をしました。
