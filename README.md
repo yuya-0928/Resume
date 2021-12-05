@@ -8,6 +8,7 @@
 |address|東京都豊島区巣鴨3-34-3 フラワーコーポ404|
 |phone|090-6197-8713|
 |email|y.hirako0928@gmail.com|
+|birthday|1998/09/28|
 |blog|[ゆにの技術ブログ](https://yuniyuni.work/)|
 |Twitter|[@YYa0928](https://twitter.com/YYa0928)|
 |Twitter2|[@hirattchi0928](https://twitter.com/hirattchi0928)|
@@ -50,6 +51,7 @@
 - C# (Unity)
   - 趣味でUnityを使ったVRアプリケーションの開発を練習しています。
   - [UnityちゃんになれるVRアプリ](https://docs.google.com/presentation/d/1IzEoQ-IApBNrVWh8q3rroL8MG6pSkr82VZFvT6uZfjA/edit?usp=sharing)
+  - [一日で作った玉入れアプリ](https://twitter.com/YYa0928/status/1467468516077228033?s=20)
 - Golang
   - 現在学習中。Goを使ったWebアプリケーション開発に興味があり、echoフレームワークのハンズオンを実施しまいた。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、DiscordGoでBotを作り直すことを検討中
