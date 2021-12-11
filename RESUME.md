@@ -37,15 +37,48 @@
 
 
 ## :memo: スキル詳細
-### 利用している言語
+### 業務で利用経験のある言語・ツール
+#### 言語
 - Ruby (2.7.2)
   - 業務でRuby on Rails(6.1.4.1)を使ったWebアプリケーションの開発をしています。
   - 2019/07から2年ほど使っています。
 - Python(3.8.5)
   - 業務でDiscord Botを開発する際に使用しています。
-  - 最近はAPIを叩く時やDiscord Bot開発をする際にしか使っていませんが、株式会社Dipの選考に応募する際、Sinatraを使ったWebアプリケーションを実装した経験もあります。
+  - 最近はAPIを叩く時やDiscord Bot開発をする際にしか使っていませんが、株式会社Dipの選考に応募する際、<span style="color: red;">Flask</span>を使ったWebアプリケーションを実装した経験もあります。
+- <span style="color: red;">MySQL
+  - <span style="color: red;">業務でデータを分析するためにクエリを作成してデータを取り出し、分析をした経験があります。
+  - <span style="color: red;">インターン選考際、スロークエリの特定のためにmy.confの設定をするなど、入門レベルですがパフォーマンス・チューニングに取り組んだことがあります。
+- <span style="color: red;">JavaScript
+  -  <span style="color: red;">業務でWebフロントの処理を書く際に使用したり、バックエンドの処理を書く際に使用しています。
+  -  <span style="color: red;">React.js、Vue.js、Nuxt.jsは入門レベルですが、公式ドキュメントを読みながら少しだけ利用したことがあります。
+- <span style="color: red;">HTML/CSS
+  -  <span style="color: red;">業務でWebサイトを作成する際に使用しています。
+  -  <span style="color: red;">デザイン通りのWebサイトを作成したり、レスポンシブ対応を考慮したコードを書くことが出来ます。
+  -  <span style="color: red;">Bootstrap、SCSSを利用したことがあります。
 - Google App Script
   - 業務でマーケット調査をする際、データ収集の自動化やデータ整理のために使用しています。
+- PHP
+  - WordPressのサイト構築案件を受けていた非エンジニアの友人の手伝いをするために少しだけ触れたことがあります。
+  - 簡単な機能の部分であれば、WordPressライブラリのコードを改造して意図した情報を表示したり、機能を付け加えたりすることが出来ます。
+#### ツール
+- Git/Github
+  - <span style="color: red;">基本的なコードの管理、Issueの管理、ブランチの管理、CLIなど利用経験あり。
+- <span style="color: red;">VirtualBox
+  - <span style="color: red;">業務でWebアプリケーションを開発するために、仮想環境を作成するために利用したことがあります。
+  - 現在はWSLを利用して開発をしているので、業務では利用していません。
+- <span style="color: red;">AWS
+  - <span style="color: red;">ALB、EC2、RDS、Route53などを使用して、SSL認証済みのWebサイトの配信環境を構築した経験があります。
+  - <span style="color: red;">以下のような、基本的なEC2とRDSの構成の環境を構築することができます。
+  ![スクリーンショット 2021-12-11 223111](https://user-images.githubusercontent.com/34731535/145678575-94cdafe9-7b69-44b1-800a-1bfe416cd974.png)
+- <span style="color: red;">Azure
+  - <span style="color: red;">知人の依頼でアプリケーションを作成するために、Microsoftの提供するドキュメントを読みながら、Ruby、Ruby on Railsが動作する環境をセットアップしたことがあります。
+- <span style="color: red;">GCP
+  - <span style="color: red;">提供されたBigQueryの環境を利用してデータ分析をしたことがあります。
+  - <span style="color: red;">YoutubeDataAPIやFirebaseを利用する設定の際に利用したことがあります。
+- Google Analytics
+  - <span style="color: red;">GAの環境作成や分析などの経験があります。
+### 業務外で利用経験のある言語・ツール
+#### 言語
 - C++(9.3.0)
   - 競技プログラミングをする際に使用しています。
 - C# (Unity)
@@ -58,19 +91,22 @@
 - Rust
   - DiscordがGoの実装をRustに切り替えていたり、Rubyを利用していることでおなじみのクックパッドが社内でRustを使い始めている聞いたことをきっかけに興味を持ち、公式ドキュメントのハンズオンを実施しました。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、Serenity(Rust)でBotを作り直すことを検討中
-- PHP
-  - WordPressのサイト構築案件を受けていた非エンジニアの友人の手伝いをするために少しだけ触れたことがあります。
-  - 簡単な機能の部分であれば、WordPressライブラリのコードを改造して意図した情報を表示したり、機能を付け加えたりすることが出来ます。
 
-### その他使用経験のあるツール
-- Git
-- Google Analytics
-- Jupyter Notebook
+
+#### <span style="color: red;">ツール
+- <span style="color: red;">各種LinuxOS(RaspberryOS, Ubuntu, Kali Linux)
+  - <span style="color: red;">いくつかのLinuxOSに触れたことがあります。
+  - <span style="color: red;">普段はWLS(Ubuntu)を利用して開発をしています。
+  - <span style="color: red;">セキュリティの学習のために、Kali Linuxに標準で入っているMetasplit Frameworkを利用したことがあります。
+- <span style="color: red;">Firebase
+  - <span style="color: red;">Firebase x Vue.jsのハンズオンとして、簡単なログイン認証の作成をする際に触れたことがあります。
+
+
 
 <div style="page-break-before:always"></div>
 
 ## :file_folder: 職務経歴　詳細
-### 株式会社FANP 2020/05~  
+### (現職)株式会社FANP 2020/05~  
 職務：共同創業者　CTO  
 
 会社の立ち上げに関わり、一人 目のエンジニアとしてサービス開発を担当しています。  
@@ -101,7 +137,7 @@ DMM WEBCAMPのチューターとして、Rubyを用いたWebアプリケーシ�
 - 受講生の個人学習のサポート
 - 受講生のチーム開発のサポート
 
-### 株式会社TRUNK
+### 株式会社TRUNK　2019/07~2019/12
 職務：データサイエンス・分析(インターン)  
   
 データサイエンスインターンとして、自社サービスの利用者情報の分析や、新機能やサイトの変更がサービス利用者のニーズに合っているかどうか、どのような機能のニーズがあるのかなど分析をしました。
@@ -160,3 +196,7 @@ Cluster GAMEJUMにチームで参加し、ゲームギミックの実装をし�
 
 **特徴：エンジニアの視点からもプロダクトオーナーの視点からも事業やプロダクトを見ることができます**    
 エンジニアとして技術を探求したり、挑戦的なシステムやアプリケーションを作ってみたいといった好奇心がありますが、それと同時にそういったシステムの収益性や本当に必要とされている物になっているかどうかなどを一歩引いた視点から冷静に考えることが出来ます。大学では統計学を専攻して学んでいたため、実際にそれが必要とされているかどうか、機能がどのようにユーザーに利用されているかどうかについて、技術を活用して定量的に分析し、ユーザーにとってどのような機能があると理想的かを考えることが出来ます。新機能を考えたり、新しいアプリのアイディアを考える際には、「このアイディア&開発が面白そう！」と考えることは当然ありますが、それと同時に「それが実際に使われるものなのか？&必要とされるものなのか？」を意識的に考えるようにしています。
+
+## 今後挑戦したい領域
+
+### 
