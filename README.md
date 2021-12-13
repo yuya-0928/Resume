@@ -18,8 +18,8 @@ RESUME.mdをPDF出力したファイルです。PDFを取得したい場合は�
 ### [RESUME_low.pdf](https://github.com/yuya-0928/Resume/blob/master/RESUME_low.pdf)
 RESUME_low.mdをPDF出力したファイルです。軽量バージョンのPDFを取得したい場合は、こちらをダウンロードしてください。
 
-> https://github.com/kazupon/git-commit-message-convention#emojis からの引用
-# Emojis
+
+# Emojis チートシート
 
 | Emoji                         | Raw Emoji Code                  | Type               | Description |
 |:-----------------------------:|---------------------------------|--------------------|-------------|
@@ -60,3 +60,5 @@ RESUME_low.mdをPDF出力したファイルです。軽量バージョンのPDF�
 | :bookmark:                 | `:bookmark:`                 | `release`          | **tagged** with version label |
 | :back:                     | `:back:`                     | `revert`           | **revert** commiting |
 | :construction:             | `:construction:`             | `wip`              | **WIP** commiting |
+
+> https://github.com/kazupon/git-commit-message-convention#emojis からの引用
