@@ -4,16 +4,11 @@
 ## :house: 個人情報
 |key|value|
 |---|-----|
-|name|平子雄也|
-|address|東京都豊島区巣鴨3-34-3 フラワーコーポ404|
-|phone|090-6197-8713|
-|email|y.hirako0928@gmail.com|
 |birthday|1998/09/28|
 |blog|[ゆにの技術ブログ](https://yuniyuni.work/)|
 |Twitter|[@YYa0928](https://twitter.com/YYa0928)|
 |Twitter2|[@hirattchi0928](https://twitter.com/hirattchi0928)|
-|FaceBook|[FaceBookプロフィール](https://www.facebook.com/hirako.yuya)|
-|Github|[yuya-0928](https://github.com/yuya-0928)|
+|GitHub|[yuya-0928](https://github.com/yuya-0928)|
 |AtCoder|[Shinogami_Yuni](https://atcoder.jp/users/Shinogami_Yuni)|
 
 
