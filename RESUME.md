@@ -37,38 +37,24 @@
   - 2019/07から2年ほど使っています。
 - Python(3.8.5)
   - 業務でDiscord Botを開発する際に使用しています。
-  - 最近はAPIを叩く時やDiscord Bot開発をする際にしか使っていませんが、株式会社Dipの選考に応募する際、Flaskを使ったWebアプリケーションを実装した経験もあります。
-- MySQL
-  - 業務でデータを分析するためにクエリを作成してデータを取り出し、分析をした経験があります。
-  - インターン選考際、スロークエリの特定のためにmy.confの設定をするなど、入門レベルですがパフォーマンス・チューニングに取り組んだことがあります。
-- JavaScript
-  -  業務でWebフロントの処理を書く際に使用したり、バックエンドの処理を書く際に使用しています。
-  -  React.js、Vue.js、Nuxt.jsは入門レベルですが、公式ドキュメントを読みながら少しだけ利用したことがあります。
-- HTML/CSS
-  -  業務でWebサイトを作成する際に使用しています。
-  -  デザイン通りのWebサイトを作成したり、レスポンシブ対応を考慮したコードを書くことができます。
-  -  Bootstrap、SCSSを利用したことがあります。
-- Google App Script
-  - 業務でマーケット調査をする際、データ収集の自動化やデータ整理のために使用しています。
+  - YouTubeDataAPIや、その他のサービスのAPIから情報収集をするためのプログラムをPythonを使って書いた経験があります
+  - 株式会社Dipの選考に応募する際、Flaskを使った機械学習のWebアプリケーションを実装した経験もあります。
 - PHP
-  - WordPressのサイト構築案件を受けていた非エンジニアの友人の手伝いをするために少しだけ触れたことがあります。
-  - 簡単な機能の部分であれば、WordPressライブラリのコードを改造して意図した情報を表示したり、機能を付け加えることができます。
-  <div style="page-break-before:always"></div>
+  - WordPressのサイト構築案件を取り組んだことがあります。
+  
+<div style="page-break-before:always"></div>
+
 #### ツール
 - Git/GitHub
   - 基本的なコードの管理、Issueの管理、ブランチの管理、CLIなど利用経験あり。
 - VirtualBox
   - 業務でWebアプリケーションを開発するための、仮想環境を作成するために利用したことがあります。
   - 現在はWSLを利用して開発をしているので、業務では利用していません。
-- AWS
+- AWS、Azure、GCP
+  - ひととおりのクラウドサービスを利用した経験があります。
   - ALB、EC2、RDS、Route53などを使用して、SSL認証済みのWebサイトの配信環境を構築した経験があります。
   - 以下のような、基本的なEC2とRDSの構成の環境を構築できます。
   ![スクリーンショット 2021-12-11 223111](https://user-images.githubusercontent.com/34731535/145678575-94cdafe9-7b69-44b1-800a-1bfe416cd974.png)
-- Azure
-  - 知人の依頼でアプリケーションを作成するために、Microsoftの提供するドキュメントを読みながら、Ruby、Ruby on Railsが動作する環境をセットアップしたことがあります。
-- GCP
-  - 提供されたBigQueryの環境を利用してデータ分析をしたことがあります。
-  - YouTubeDataAPIやFirebaseを利用する設定の際に利用したことがあります。
 - Google Analytics
   - GAの環境作成や分析などの経験があります。
 
@@ -83,12 +69,12 @@
   - [UnityちゃんになれるVRアプリ](https://docs.google.com/presentation/d/1IzEoQ-IApBNrVWh8q3rroL8MG6pSkr82VZFvT6uZfjA/edit?usp=sharing)
   - [一日で作った玉入れアプリ](https://twitter.com/YYa0928/status/1467468516077228033?s=20)
 - Golang
-  - 現在学習中。Goを使ったWebアプリケーション開発に興味があり、echoフレームワークのハンズオンを実施しまいた。
+  - [Cluster](https://corp.cluster.mu/)が開発にGolangを使用しているということを聞いて、使いこなせるようになりたいと思ったことがきっかけで利用しています。
+  - Goを使ったWebアプリケーション開発に興味があり、echoフレームワークのハンズオンを実施しまいた。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、DiscordGoでBotを作り直すことを検討中
 - Rust
   - DiscordがGoの実装をRustに切り替えていたり、Rubyを利用していることでおなじみのクックパッドが社内でRustを使い始めている聞いたことをきっかけに興味を持ち、公式ドキュメントのハンズオンを実施しました。
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、Serenity(Rust)でBotを作り直すことを検討中
-
 
 #### ツール
 - 各種LinuxOS(RaspberryOS, Ubuntu, Kali Linux)
@@ -96,9 +82,7 @@
   - 普段はWLS(Ubuntu)を利用して開発をしています。
   - セキュリティの学習のために、Kali Linuxに標準で入っているMetasplit Frameworkを利用したことがあります。
 - Firebase
-  - Firebase x Vue.jsのハンズオンとして、簡単なログイン認証の作成をする際に触れたことがあります。
-
-
+  - Firebase x Vue.jsのハンズオンとして、ログイン認証の作成をする際に利用した経験があります。
 
 <div style="page-break-before:always"></div>
 
