@@ -13,7 +13,8 @@ PDF出力をする時はVisual Studio Codeを利用して出力します。URL�
 RESUME.mdをPDF出力したファイルです。PDFを取得したい場合は、こちらをダウンロードしてください。
 
 ### [RESUME_low.md](https://github.com/yuya-0928/Resume/blob/master/RESUME_low.md)
-職務経歴書の軽量バージョンです。画像を設置する代わりにハイパーリンクを設置することでファイル容量を削減しています。
+職務経歴書の軽量バージョンです。画像を設置する代わりにハイパーリンクを設置することでファイル容量を削減しています。  
+基本的には、RESUME.mdを更新-> low版にも反映という順番で更新をしていきますので、lowの中身が最新の状態になっていない場合もあります。
 
 ### [RESUME_low.pdf](https://github.com/yuya-0928/Resume/blob/master/RESUME_low.pdf)
 RESUME_low.mdをPDF出力したファイルです。軽量バージョンのPDFを取得したい場合は、こちらをダウンロードしてください。
