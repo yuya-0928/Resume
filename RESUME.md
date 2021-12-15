@@ -1,5 +1,6 @@
 # 職務経歴書
 
+<!--github用目次-->
 ## 目次
 |key|value|
 |---|-----|
@@ -11,6 +12,24 @@
 |6|[📁 （業務外）個人開発・チーム開発の成果物](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#file_folder-%E6%A5%AD%E5%8B%99%E5%A4%96%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9)|
 |6|[🔍 自己PR](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#mag-%E8%87%AA%E5%B7%B1pr)|
 |7|[✨ 興味・関心のある領域](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#sparkles-%E8%88%88%E5%91%B3%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%98%E5%9F%9F)|
+
+
+<!--PDF用目次-->
+
+
+<!-- TOC
+## 目次
+|key|value|
+|---|-----|
+|1|[:house: 個人情報](#house-個人情報)|
+|2|[:muscle: スキル概要](#muscle-スキル概要)|
+|3|[:briefcase: キャリア/経歴　概要](#briefcase-キャリア経歴-概要)|
+|4|[:memo: スキル詳細](#memo-スキル詳細)|
+|5|[:clipboard: キャリア/経歴　詳細](#clipboard-キャリア経歴-詳細)|
+|6|[:clipboard: 個人開発やチーム開発の成果物](#clipboard-個人開発やチーム開発の成果物)|
+|7|[:mag: 自己PR](#mag-自己pr)|
+|8|[:sparkles: 興味・関心のある領域](#sparkles-興味・関心のある領域)|
+<!-- /TOC -->
 
 
 ## :house: 個人情報
@@ -32,7 +51,8 @@
 - Google App Scriptを使い、Googleスプレットシートを使った情報収集や作業の自動化をするためのマクロを開発ができます。
 - 既存のUnity Assetなどを利用して、VRhat、Clusterのワールド作成ができます。
 
-## :briefcase: キャリア/経歴　概要
+
+## :briefcase: キャリア/経歴 概要
 |時期|経歴|
 |---|-----|
 |2020/05~現在|株式会社FANP CTO|
@@ -54,7 +74,7 @@
 - PHP
   - WordPressのサイト構築案件を取り組んだことがあります。
   
-<div style="page-break-before:always"></div>
+<!-- <div style="page-break-before:always"></div> -->
 
 #### ツール
 - Git/GitHub
@@ -62,13 +82,13 @@
 - VirtualBox
   - 業務でWebアプリケーションを開発するための、仮想環境を作成するために利用したことがあります。
   - 現在はWSLを利用して開発をしているので、業務では利用していません。
+- Google Analytics
+  - GAの環境作成や分析などの経験があります。
 - AWS、Azure、GCP
   - ひととおりのクラウドサービスを利用した経験があります。
   - ALB、EC2、RDS、Route53などを使用して、SSL認証済みのWebサイトの配信環境を構築した経験があります。
   - 以下のような、基本的なEC2とRDSの構成の環境を構築できます。
   ![スクリーンショット 2021-12-11 223111](https://user-images.githubusercontent.com/34731535/145678575-94cdafe9-7b69-44b1-800a-1bfe416cd974.png)
-- Google Analytics
-  - GAの環境作成や分析などの経験があります。
 
 <div style="page-break-before:always"></div>
 
@@ -98,7 +118,7 @@
 
 <div style="page-break-before:always"></div>
 
-## :file_folder: キャリア/経歴　詳細
+## :clipboard: キャリア/経歴 詳細
 ### （現職）株式会社FANP 2020/05~  
 職務：共同創業者　CTO  
 
@@ -139,9 +159,9 @@ DMM WEBCAMPのチューターとして、Rubyを用いたWebアプリケーシ�
 
 <div style="page-break-before:always"></div>
 
-## :file_folder: （業務外）個人開発・チーム開発の成果物  
+## :clipboard: 個人開発やチーム開発の成果物
 
-## リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）  
+## 1. リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）  
   
 ![スクリーンショット 2021-12-04 213627](https://user-images.githubusercontent.com/34731535/144709712-7c8e05e0-ec03-40f9-a914-4394fe931917.png)  
 [YouTube動画へのリンク](https://youtu.be/3lLou7-Q0ro?t=1725)  
@@ -150,7 +170,7 @@ Ruby on RailsとJavaScriptを使用して、動画のLive配信中にDiscordの�
   
 <div style="page-break-before:always"></div>
 
-## Clusterゲームワールドのギミック作成（Unity & Cluster Creator Kit） 
+## 2. Clusterゲームワールドのギミック作成（Unity & Cluster Creator Kit） 
 **Cluster GAMEJUM 2021 in SUMMERにてUnityJapan賞を受賞しました**  
 [Cluster GAMEJUM 2021 in SUMMER　大賞受賞作品一覧ページ](https://www.contest.cluster.mu/gamejam2021summer-award)
 
@@ -165,7 +185,7 @@ Cluster GAMEJUMにチームで参加し、ゲームギミックの実装をし�
 
 <div style="page-break-before:always"></div>
 
-## イベント開催用のワールド作成（Unity & VRChatSDK） 
+## 3. イベント開催用のワールド作成（Unity & VRChatSDK） 
 
 ![スクリーンショット 2021-11-18 141153](https://user-images.githubusercontent.com/34731535/144712129-ee03b919-b956-4a38-b729-cc70df08e525.png)
 
