@@ -7,7 +7,7 @@
 |2|[💪 スキル概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#muscle-%E3%82%B9%E3%82%AD%E3%83%AB%E6%A6%82%E8%A6%81)|
 |3|[💼 キャリア/経歴　概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#briefcase-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%B5%8C%E6%AD%B4%E6%A6%82%E8%A6%81)|
 |4|[📝 スキル詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#memo-%E3%82%B9%E3%82%AD%E3%83%AB%E8%A9%B3%E7%B4%B0)|
-|5|[📁 職務経歴　詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#file_folder-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E8%A9%B3%E7%B4%B0)|
+|5|[📁 キャリア/経歴　詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#file_folder-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E8%A9%B3%E7%B4%B0)|
 |6|[📁 （業務外）個人開発・チーム開発の成果物](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#file_folder-%E6%A5%AD%E5%8B%99%E5%A4%96%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9)|
 |6|[🔍 自己PR](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#mag-%E8%87%AA%E5%B7%B1pr)|
 |7|[✨ 興味・関心のある領域](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#sparkles-%E8%88%88%E5%91%B3%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%98%E5%9F%9F)|
@@ -98,7 +98,7 @@
 
 <div style="page-break-before:always"></div>
 
-## :file_folder: 職務経歴　詳細
+## :file_folder: キャリア/経歴　詳細
 ### （現職）株式会社FANP 2020/05~  
 職務：共同創業者　CTO  
 
