@@ -3,7 +3,7 @@
 ## このリポジトリの説明
 職務経歴書の管理、更新、共有をするためのリポジトリです。  
 職務経歴書をアップデートする際には、このリポジトリを更新してください。
-PDF出力をする時はVisual Studio Codeを利用して出力します。URLで内容を共有する場合は、Hackmd.ioを利用します。
+PDF出力をする時はMarkdown PDF(VSCode)を利用して出力します。URLで内容を共有する場合は、Hackmd.ioを利用します。
 
 ## ファイルの説明
 ### [RESUME.md](https://github.com/yuya-0928/Resume/blob/master/RESUME.md)
