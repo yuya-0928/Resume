@@ -20,6 +20,7 @@ RESUME.mdをPDF出力したファイルです。PDFを取得したい場合は�
 RESUME_low.mdをPDF出力したファイルです。軽量バージョンのPDFを取得したい場合は、こちらをダウンロードしてください。
 
 
+
 # Emojis チートシート
 
 | Emoji                         | Raw Emoji Code                  | Type               | Description |
