@@ -124,6 +124,11 @@
   - Pythonを使ってDiscord Botを作るためのライブラリ、Discord.pyの開発者によるサポートが終了するため、Serenity(Rust)でBotを作り直すことを検討中
 
 #### ツール
+- Unity
+  - VRChatで、自身が主催をしているイベント用のワールド作成をしました。
+  - VRChatやClusterにアバターをアップロードする際に利用しています。アバターの改変作業などにも利用しています。
+- Blender
+  - アバターにつけている髪飾りや、AFKアイコンのモデリングする際に利用しました。
 - 各種LinuxOS(RaspberryOS, Ubuntu, Kali Linux)
   - いくつかのLinuxOSに触れたことがあります。
   - 普段はWLS(Ubuntu)を利用して開発をしています。
