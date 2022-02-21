@@ -217,7 +217,7 @@ Cluster GAMEJUMにチームで参加し、ゲームギミックの実装をし�
 イベント用のDiscordサーバーやGitHubリポジトリを作成するなどをしてコミュニティ作りに取り組んでいます。
 現時点（2022年2月21日）では計6回イベントを開催しており、開催するごとに17人～25人ぐらいの方にお越しいただいております。今後は、コミュニティがもっと盛り上がるような企画を作って、コミュニティを大きくしていきたいと考えています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第5回も沢山のお友達が遊びに来たよーー！<br>最近TLを賑わせているOSC for Avatersの話題がめちゃくちゃ盛り上がってた！！！<br>特定技術がテーマのLTイベントみたいなのもやってみたいにゃーー！ <a href="https://twitter.com/hashtag/VRC%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E4%BD%9C%E6%A5%AD%E9%A3%B2%E3%81%BF%E9%9B%86%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#VRCエンジニア作業飲み集会</a> <a href="https://t.co/fP8Z7UwK3a">pic.twitter.com/fP8Z7UwK3a</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1495009424674476038?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第5回も沢山のお友達が遊びに来たよーー！<br>最近TLを賑わせているOSC for Avatersの話題がめちゃくちゃ盛り上がってた！！！<br>特定技術がテーマのLTイベントみたいなのもやってみたいにゃーー！ <a href="https://twitter.com/hashtag/VRC%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E4%BD%9C%E6%A5%AD%E9%A3%B2%E3%81%BF%E9%9B%86%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#VRCエンジニア作業飲み集会</a> <a href="https://t.co/fP8Z7UwK3a">pic.twitter.com/fP8Z7UwK3a</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1495009424674476038?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote>
 
 <div style="page-break-before:always"></div>
 
