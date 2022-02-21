@@ -133,6 +133,8 @@
   - いくつかのLinuxOSに触れたことがあります。
   - 普段はWLS(Ubuntu)を利用して開発をしています。
   - セキュリティの学習のために、Kali Linuxに標準で入っているMetasplit Frameworkを利用したことがあります。
+  - 自宅にサーバーがあって、Ubuntuを動かしています。
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえず、いただいた3台のサーバー全てでubuntuが動いてる状態にしておいたーー！<br>一台余ったやつも、何かしらに活用して遊ぶ予定……。 <a href="https://t.co/HZR9ii1m0W">pic.twitter.com/HZR9ii1m0W</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1490019020082323466?ref_src=twsrc%5Etfw">February 5, 2022</a></blockquote>
 - Firebase
   - Firebase x Vue.jsのハンズオンとして、ログイン認証の作成をする際に利用した経験があります。
 
