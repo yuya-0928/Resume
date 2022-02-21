@@ -186,7 +186,7 @@ DMM WEBCAMPのチューターとして、Rubyを用いたWebアプリケーシ�
 ## 1. リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）  
   
 [スクリーンショット 2021-12-04 213627](https://user-images.githubusercontent.com/34731535/144709712-7c8e05e0-ec03-40f9-a914-4394fe931917.png)  
-[YouTube動画へのリンク](https://youtu.be/3lLou7-Q0ro?t=1725)  
+[YouTube動画へのリンク](https://youtu.be/r926oGTgCY0?t=322)  
 Ruby on RailsとJavaScriptを使用して、動画のLive配信中にDiscordの特定チャンネルから取得したコメントを表示するコメントビューアーを作成しました。
 コメントを取得するためのAPIとDiscord Botはすでに依頼者の方が作成してくださっていましたので、コメントを表示するためのクライアントアプリの作成をしました。  
   
