@@ -1,52 +1,16 @@
 # 職務経歴書
 
-<!--github用目次-->
-
 ## 目次
 
 | id  | title                                                                                                                                                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [🏠 個人情報](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#house-%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1)                                                                                                                   |
-| 2   | [💪 スキル概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#muscle-%E3%82%B9%E3%82%AD%E3%83%AB%E6%A6%82%E8%A6%81)                                                                                                       |
-| 3   | [💼 キャリア/経歴　概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#briefcase-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%B5%8C%E6%AD%B4-%E6%A6%82%E8%A6%81)                                                               |
-| 4   | [📝 スキル詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#memo-%E3%82%B9%E3%82%AD%E3%83%AB%E8%A9%B3%E7%B4%B0)                                                                                                         |
-| 5   | [📋 キャリア/経歴　詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#clipboard-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%B5%8C%E6%AD%B4-%E8%A9%B3%E7%B4%B0)                                                               |
-| 6   | [📋 個人開発やチーム開発の成果物](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#clipboard-%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%82%84%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9) |
-| 6   | [🔍 自己 PR](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#mag-%E8%87%AA%E5%B7%B1pr)                                                                                                                                      |
-| 7   | [✨ 興味・関心のある領域](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#sparkles-%E8%88%88%E5%91%B3%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E9%A0%98%E5%9F%9F)                                                       |
-
-<!--PDF用目次-->
-
-<!-- TOC
-
-## 目次
-
-| id  | title                                                                               |
-| --- | ----------------------------------------------------------------------------------- |
-| 1   | [:house: 個人情報](#house-個人情報)                                                 |
-| 2   | [:muscle: スキル概要](#muscle-スキル概要)                                           |
-| 3   | [:briefcase: キャリア/経歴　概要](#briefcase-キャリア経歴-概要)                     |
-| 4   | [:memo: スキル詳細](#memo-スキル詳細)                                               |
-| 5   | [:clipboard: キャリア/経歴　詳細](#clipboard-キャリア経歴-詳細)                     |
-| 6   | [:clipboard: 個人開発やチーム開発の成果物](#clipboard-個人開発やチーム開発の成果物) |
-| 7   | [:mag: 自己 PR](#mag-自己pr)                                                        |
-| 8   | [:sparkles: 興味・関心のある領域](#sparkles-興味・関心のある領域)                   |
-
-<!-- /TOC -->
-
-<!-- HackMD用目次
-## 目次
-|id|title|
-|---|-----|
-|1|[:house: 個人情報](#-個人情報)|
-|2|[:muscle: スキル概要](#-スキル概要)|
-|3|[:briefcase: キャリア/経歴　概要](#-キャリア経歴-概要)|
-|4|[:memo: スキル詳細](#-スキル詳細)|
-|5|[:clipboard: キャリア/経歴　詳細](#-キャリア経歴-詳細)|
-|6|[:clipboard: 個人開発やチーム開発の成果物](#-個人開発やチーム開発の成果物)|
-|7|[:mag: 自己PR](#-自己PR)|
-|8|[:sparkles: 興味・関心のある領域](#-興味・関心のある領域)|
--->
+| 1   | [個人情報](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#house-%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1)                                                                                                                   |
+| 2   | [スキル概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#muscle-%E3%82%B9%E3%82%AD%E3%83%AB%E6%A6%82%E8%A6%81)                                                                                                       |
+| 3   | [キャリア/経歴　概要](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#briefcase-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%B5%8C%E6%AD%B4-%E6%A6%82%E8%A6%81)                                                               |
+| 4   | [スキル詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#memo-%E3%82%B9%E3%82%AD%E3%83%AB%E8%A9%B3%E7%B4%B0)                                                                                                         |
+| 5   | [キャリア/経歴　詳細](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#clipboard-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%B5%8C%E6%AD%B4-%E8%A9%B3%E7%B4%B0)                                                               |
+| 6   | [個人開発やチーム開発の成果物](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#clipboard-%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%82%84%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9) |
+| 7   | [自己 PR](https://github.com/yuya-0928/Resume/blob/master/RESUME.md#mag-%E8%87%AA%E5%B7%B1pr)                                                                                                                                      |
 
 ## :house: 個人情報
 
@@ -101,8 +65,6 @@
   - Discord Bot を開発する際に使用しています。
   - YouTubeDataAPI や、その他のサービスの API から情報収集をするためのプログラムを Python を使って書いた経験があります
   - 株式会社 Dip の選考に応募する際、Flask を使った機械学習の Web アプリケーションを実装した経験もあります。
-
-<!-- <div style="page-break-before:always"></div> -->
 
 <div style="page-break-before:always"></div>
 
