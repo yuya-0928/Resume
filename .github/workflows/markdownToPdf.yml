@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - 'feature/**'
     paths:
       - 'docs/**.md'
       - '.github/workflows/markdownToPdf.yml'
