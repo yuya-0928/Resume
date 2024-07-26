@@ -1,0 +1,37 @@
+name: Markdonw to PDF
+on: 
+  push:
+    branches:
+      - main
+      - 'feature/**'
+    paths:
+      - 'docs/**.md'
+      - '.github/workflows/markdownToPdf.yml'
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{secrets.PERSONAL_ACCESS_TOKEN}}
+
+      - name: Remove old PDFs
+        run: rm -rf pdfs
+
+      - name: Convert to PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: docs
+          output_dir: pdfs
+          build_html: false
+
+      - name: Push PDFs
+        run: |
+          git config user.name auto-push
+          git config user.email auto-push@example.com
+          git add .
+          git commit -m "auto push from ci" || echo no commits
+          git push
