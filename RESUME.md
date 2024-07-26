@@ -55,10 +55,11 @@
 | birthday | 1998/09/28                                                                                                 |
 | blog     | [ゆにの技術ブログ](https://yuniyuni.work/)                                                                 |
 | blog2    | [慕狼ゆに wiki](https://publish.obsidian.md/yuniyuni0928/publish/%E6%85%95%E7%8B%BC%E3%82%86%E3%81%ABwiki) |
-| Twitter  | [@YYa0928](https://twitter.com/YYa0928)                                                                    |
-| Twitter2 | [@hirattchi0928](https://twitter.com/hirattchi0928)                                                        |
+| Twitter（メイン）  | [@YYa0928](https://twitter.com/YYa0928)                                                                    |
+| Twitter（サブ） | [@hirattchi0928](https://twitter.com/hirattchi0928)                                                        |
 | GitHub   | [yuya-0928](https://github.com/yuya-0928)                                                                  |
 | AtCoder  | [Shinogami_Yuni](https://atcoder.jp/users/Shinogami_Yuni)                                                  |
+| Youtube  | [エンジニア集会](https://www.youtube.com/@engineer-meetup)                                                  |
 
 ## :muscle: スキル概要
 
@@ -165,7 +166,40 @@ DMM WEBCAMP のチューターとして、Ruby を用いた Web アプリケー�
 
 ## :clipboard: 個人開発やチーム開発の成果物
 
-## 1. リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）
+## 1. エンジニアコミュニティの主催・運営
+
+「エンジニア集会」という技術者コミュニティの主催・運営をしています。
+毎週金曜日に VRChat と cluster というソーシャル VR プラットフォームで「エンジニア作業飲み集会」という、技術者交流会を開催しています。
+
+エンジニア集会 HP：[https://engineer-meetup.com/](https://engineer-meetup.com/)
+
+現時点（2024/07/26）でコミュニティの規模は、Discord534 人、VRCGroup メンバー 376 人となっています。
+現時点で VRChat では 104 回、cluster では 29 回イベントを開催しており、一回開催辺りの参加人数は 20 人～ 30 人規模となっています。
+
+年に一回のハッカソンイベント、毎月一回の LT 会イベントも開催しています。
+
+<div style="page-break-before:always"></div>
+
+## 2. エンジニアコミュニティ運営のための自動化システム・HP制作もろもろ（TypeScript）
+
+「エンジニア集会」では、毎週金曜日に「エンジニア作業飲み集会」というイベントを開催しています。
+イベント開催の際には、TwitterやDiscordで告知をする必要があります。そうしたTwitterやDiscordへの告知を自動化するシステムを開発中です。
+告知の自動化以外にも、LT会の準備、ハッカソンの準備などもこのシステムを使って自動化する予定。
+
+asideを利用して、TypeScriptのコードをGASにデプロイしてGASで動かしています。
+Jestを使った自動テストの整備を現在取り組んでいます。
+
+告知自動化：https://github.com/yuya-0928/EngineerMeetupAnnouncementGas
+
+
+エンジニア集会のHPは、Astro・Starlightで作成し、Github Pagesでホスティングしています。情報を公開すること・更新しやすいことを重視してAstro・Starlightを利用しています。
+
+エンジニア集会HP：https://github.com/yuya-0928/engineer-meetup-hp-astro
+
+
+<div style="page-break-before:always"></div>
+
+## 3. リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）
 
 ![スクリーンショット 2021-12-04 213627](https://user-images.githubusercontent.com/34731535/144709712-7c8e05e0-ec03-40f9-a914-4394fe931917.png)  
 [YouTube 動画へのリンク](https://youtu.be/r926oGTgCY0?t=322)  
@@ -174,7 +208,7 @@ Ruby on Rails と JavaScript を使用して、動画の Live 配信中に Disco
 
 <div style="page-break-before:always"></div>
 
-## 2. cluster ゲームワールドのギミック作成（Unity & Cluster Creator Kit）
+## 4. cluster ゲームワールドのギミック作成（Unity & Cluster Creator Kit）
 
 **Cluster GAMEJUM 2021 in SUMMER にて UnityJapan 賞を受賞しました**  
 [Cluster GAMEJUM 2021 in SUMMER 　大賞受賞作品一覧ページ](https://www.contest.cluster.mu/gamejam2021summer-award)
@@ -187,34 +221,6 @@ Ruby on Rails と JavaScript を使用して、動画の Live 配信中に Disco
 
 Cluster GAMEJUM にチームで参加し、ゲームギミックの実装をしました。左上のパワーゲージに関する機能の実装をおこないました。  
 作成したゲームワールドを高く評価していただき、UnityJapan 賞をいただくことができました。
-
-<div style="page-break-before:always"></div>
-
-## 3. イベント開催用のワールド作成（Unity & VRChatSDK）
-
-![スクリーンショット 2021-11-18 141153](https://user-images.githubusercontent.com/34731535/144712129-ee03b919-b956-4a38-b729-cc70df08e525.png)
-
-![FFmiisOacAA0WmB](https://user-images.githubusercontent.com/34731535/144713418-a32df2e2-5807-4ef7-ab25-162455192f37.png)
-
-[VRChat ワールド起動リンクはこちら](https://vrchat.com/home/world/wrld_540d7e25-ba86-4a97-99b3-743e704189c6)
-
-毎週金曜日に開催するイベントのワールド作成をしました。VRChat 上でエンジニアが集まり、技術的な話で盛り上がることのできる集会を開催しています。  
-イベント用の Discord サーバーや GitHub リポジトリを作成するなどをしてコミュニティ作りに取り組んでいます。
-現時点（2022 年 2 月 21 日）では計 6 回イベントを開催しており、開催するごとに 17 人～ 25 人ぐらいの方にお越しいただいております。今後は、コミュニティがもっと盛り上がるような企画を作って、コミュニティを大きくしていきたいと考えています。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第5回も沢山のお友達が遊びに来たよーー！<br>最近TLを賑わせているOSC for Avatersの話題がめちゃくちゃ盛り上がってた！！！<br>特定技術がテーマのLTイベントみたいなのもやってみたいにゃーー！ <a href="https://twitter.com/hashtag/VRC%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E4%BD%9C%E6%A5%AD%E9%A3%B2%E3%81%BF%E9%9B%86%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#VRCエンジニア作業飲み集会</a> <a href="https://t.co/fP8Z7UwK3a">pic.twitter.com/fP8Z7UwK3a</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1495009424674476038?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote>
-
-## 4. エンジニアコミュニティの主催・運営
-
-「エンジニア集会」という技術者コミュニティの主催・運営をしています。
-毎週金曜日に VRChat と cluster というソーシャル VR プラットフォームで「エンジニア作業飲み集会」という、技術者交流会を開催しています。
-
-エンジニア集会 HP：[https://engineer-meetup.com/](https://engineer-meetup.com/)
-
-現時点（2024/05/11）でコミュニティの規模は、Discord490 人、VRCGroup メンバー 299 人となっています。
-現時点で VRChat では 98 回、cluster では 24 回イベントを開催しており、一回開催辺りの参加人数は 20 人～ 30 人規模となっています。
-
-年に一回のハッカソンイベント、毎月一回の LT 会イベントも開催しています。
 
 <div style="page-break-before:always"></div>
 
