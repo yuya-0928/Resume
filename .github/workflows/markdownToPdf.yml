@@ -2,8 +2,7 @@ name: Markdonw to PDF
 on: 
   push:
     branches:
-      - main
-      - 'feature/**'
+      - master
     paths:
       - 'docs/**.md'
       - '.github/workflows/markdownToPdf.yml'
