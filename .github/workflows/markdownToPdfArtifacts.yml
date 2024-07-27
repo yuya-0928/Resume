@@ -1,0 +1,34 @@
+name: Markdown to PDF (CI)
+on:
+  pull_request:
+    paths:
+      - 'docs/**.md'
+      - '.github/workflows/markdownToPdfArtifacts.yml'
+  push:
+    paths:
+      - 'docs/**.md'
+      - '.github/workflows/markdownToPdfArtifacts.yml'
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Remove old PDFs
+        run: rm -rf pdfs
+
+      - name: Convert to PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: docs
+          output_dir: pdfs
+          build_html: false
+
+      - name: Upload as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdfs
+          path: pdfs
