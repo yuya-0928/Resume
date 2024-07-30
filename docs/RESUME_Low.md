@@ -146,8 +146,6 @@ DMM WEBCAMP のチューターとして、Ruby を用いた Web アプリケー�
 
 年に一回のハッカソンイベント、毎月一回の LT 会イベントも開催しています。
 
-<div style="page-break-before:always"></div>
-
 ## 2. エンジニアコミュニティ運営のための自動化システム・HP制作もろもろ（TypeScript）
 
 「エンジニア集会」では、毎週金曜日に「エンジニア作業飲み集会」というイベントを開催しています。
@@ -164,15 +162,10 @@ Jestを使った自動テストの整備を現在取り組んでいます。
 
 エンジニア集会HP：https://github.com/yuya-0928/engineer-meetup-hp-astro
 
-
-<div style="page-break-before:always"></div>
-
 ## 3. リングフィット集会コメントビューアー（Ruby on Rails & JavaScript）
 [YouTube 動画へのリンク](https://youtu.be/r926oGTgCY0?t=322)  
 Ruby on Rails と JavaScript を使用して、動画の Live 配信中に Discord の特定チャンネルから取得したコメントを表示するコメントビューアーを作成しました。
 コメントを取得するための API と Discord Bot はすでに依頼者の方が作成してくださっていましたので、コメントを表示するためのクライアントアプリの作成をしました。
-
-<div style="page-break-before:always"></div>
 
 ## 4. cluster ゲームワールドのギミック作成（Unity & Cluster Creator Kit）
 
