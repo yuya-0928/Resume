@@ -35,7 +35,7 @@
 - Web アプリケーションの簡単なバックエンド開発/インフラ構築ができます。
 - Web アプリケーションの要件定義、設計ができます。
 - 分析のためのデータ抽出、簡単なデータ分析と考察をすることができます。
-- Google App Script を使い、Google スプレットシートを使った情報収集や作業の自動化をするためのマクロを開発ができます。
+- Google Apps Script を使い、Google スプレッドシートを使った情報収集や作業の自動化をするためのマクロを開発ができます。
 - 既存の Unity Asset などを利用して、VRChat、cluster のワールド作成ができます。
 
 <a id="anchor3"></a>
@@ -70,6 +70,8 @@
   - Discord Bot を開発する際に使用しています。
   - YouTubeDataAPI や、その他のサービスの API から情報収集をするためのプログラムを Python を使って書いた経験があります
   - 株式会社 Dip の選考に応募する際、Flask を使った機械学習の Web アプリケーションを実装した経験もあります。
+- SQL
+  - 業務で分析のために簡単な検索クエリを作成をした経験があります
 
 <div style="page-break-before:always"></div>
 
@@ -95,7 +97,7 @@
 - Ruby on Rails を使った Web サービスの開発（フロントエンド・バックエンド）
   - https://www.kami-nari.jp/
 - Discord.py を使った Discord Bot の開発（サービス運用に使用）
-- Google App Script を使った業務効率化の実現
+- Google Apps Script を使った業務効率化の実現
   - YouTubeDataAPI、TwitchAPI を利用した市場調査
 - AWS EC2 インスタンス上にデータ分析環境の構築（Redash）
 - Web アプリケーションのインフラ設計構築（AWS）
