@@ -1,7 +1,7 @@
 # 職務経歴書
 
-この職務経歴書はGithubで管理されています。
-以下のリンクから元データを閲覧できます。
+この職務経歴書はGithubで管理されています。  
+以下のリンクから元データを閲覧できます。  
 [https://github.com/yuya-0928/Resume](https://github.com/yuya-0928/Resume)
 
 ## 目次
